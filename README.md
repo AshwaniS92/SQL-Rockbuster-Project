@@ -18,4 +18,4 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 
 Rockbuster relational database management system and Postgre SQL was used for the analysis purpose. The data set includes information about Rockbuster’s film inventory, customers, payments, stores, staff, films, actors, rental history and addresses. pgAdmin 4 and Posrtges SQL were used when working with data, and Tableau Public was used to create visualizations.
 
-View visualizations here: [Visualizations on Tableau]([url](https://public.tableau.com/app/profile/ashwani.sherawat/viz/Rockbuster_17306444405890/Top10countriesforRockbusterintermsofcustomernumbers_)).
+View visualizations here: [Visualizations on Tableau](https://public.tableau.com/app/profile/ashwani.sherawat/viz/Rockbuster_17306444405890/Top10countriesforRockbusterintermsofcustomernumbers_).
