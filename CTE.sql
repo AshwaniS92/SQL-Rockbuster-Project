@@ -1,4 +1,4 @@
-). WITH TopCountries AS (
+ WITH TopCountries AS (
     SELECT 
         D.country
     FROM 
